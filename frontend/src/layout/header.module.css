@@ -1,0 +1,23 @@
+.container {
+  padding: 0px 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: #3b0062;
+  color: #fff;
+  height: 4rem;
+}
+.nav-bar {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+}
+.active {
+  color: #ff9100;
+  text-decoration: none;
+}

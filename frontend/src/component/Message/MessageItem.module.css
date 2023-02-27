@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid #000;
+  width: 100%;
+  padding: 3rem;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 30rem;
+}
+.gr--btn {
+  align-self: flex-end;
+}
+.btn {
+  border: 0px;
+  background-color: #fff;
+}
